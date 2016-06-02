@@ -1,0 +1,23 @@
+{
+  "name": "thamplate",
+  "description": "Personal project",
+  "main": "index.js",
+  "authors": [
+    "Alexandr Kuchinskiy - https://vk.com/al_kuchinskiy"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs/",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.4"
+  }
+}
